@@ -1,0 +1,12 @@
+{
+    "$schema": "https://specflow.org/specflow-config.json",
+    "unitTestProvider": {
+        "name": "nunit"
+    },
+    "bindingCulture": {
+        "name": "en-US"
+    },
+    "language": {
+        "feature": "en-US"
+    }
+}
